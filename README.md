@@ -9,7 +9,7 @@ Structure:
 - Blog
 - Experiance
 
-2. OK. Tomorrow...
+2. OK. Tomorrow
 
 
 
